@@ -82,7 +82,7 @@
             bindings = <
 &lt_to_layer_0 4 Q  &kp W      &kp E         &kp R               &lt 6 T                                               &kp Y        &kp U  &lt 5 I    &kp O    &kp P
 &mt LCTRL A         &kp S      &kp D         &kp F               &kp G        &kp LS(LG(S))             &kp MINUS      &kp H        &kp J  &kp K      &kp L    &mt RCTRL SEMICOLON
-&mt LEFT_SHIFT Z    &kp X      &kp C         &kp V               &kp B        &kp COLON                 &kp SEMICOLON  &kp N        &kp M  &kp COMMA  &kp DOT  &mt RIGHT_SHIFT SLASH
+&mt LEFT_SHIFT Z    &kp X      &kp C         &kp V               &kp B        &lt 6 LEFT_WIN            &kp SEMICOLON  &kp N        &kp M  &kp COMMA  &kp DOT  &mt RIGHT_SHIFT SLASH
 &kp LEFT_SHIFT      &kp LCTRL  &kp LEFT_ALT  &mt LEFT_WIN LANG1  &lt 1 SPACE  &lt_to_layer_0 5 TAB      &kp BACKSPACE  &lt 2 ENTER                             &kp ESCAPE
             >;
 
